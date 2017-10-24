@@ -1,0 +1,1 @@
+This French language learning app uses proven techniques to help users memorize new French vocabulary words.
